@@ -1,0 +1,4 @@
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Common\bin\Release\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Common\bin\Release\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Common\obj\Release\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Common\obj\Release\ResumeSys.Common.pdb

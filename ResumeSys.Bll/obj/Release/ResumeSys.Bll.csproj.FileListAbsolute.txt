@@ -1,0 +1,11 @@
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSysDal.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSys.Entity.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Release\ResumeSysDal.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Release\ResumeSys.Bll.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Release\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Release\ResumeSys.Bll.pdb

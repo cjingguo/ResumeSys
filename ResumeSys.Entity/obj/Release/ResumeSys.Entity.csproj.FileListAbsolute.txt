@@ -1,0 +1,5 @@
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Entity\bin\Release\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Entity\bin\Release\ResumeSys.Entity.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Entity\obj\Release\ResumeSys.Entity.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Entity\obj\Release\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Entity\obj\Release\ResumeSys.Entity.pdb

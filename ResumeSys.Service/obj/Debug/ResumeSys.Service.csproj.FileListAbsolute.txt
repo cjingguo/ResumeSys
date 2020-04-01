@@ -1,0 +1,15 @@
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\obj\Debug\ResumeSys.Service.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Service.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Service.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Code.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Data.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Domain.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\Newtonsoft.Json.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\EntityFramework.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Code.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Data.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\ResumeSys.Domain.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\Newtonsoft.Json.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\bin\Debug\EntityFramework.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\obj\Debug\ResumeSys.Service.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Service\obj\Debug\ResumeSys.Service.pdb

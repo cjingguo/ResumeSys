@@ -1,0 +1,10 @@
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Common\bin\Debug\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Common\bin\Debug\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\bin\Debug\ResumeSys.Common.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\bin\Debug\ResumeSys.Common.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Common\obj\Debug\ResumeSys.Common.pdb

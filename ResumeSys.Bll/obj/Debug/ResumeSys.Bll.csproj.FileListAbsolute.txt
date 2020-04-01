@@ -1,0 +1,35 @@
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.csproj.CopyComplete
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSys.Entity.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\bin\Debug\ResumeSysDal.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys.Bll\obj\Debug\ResumeSys.Bll.pdb

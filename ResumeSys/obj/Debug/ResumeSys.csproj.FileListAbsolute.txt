@@ -1,0 +1,161 @@
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\Antlr3.Runtime.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\Microsoft.Web.Infrastructure.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\Newtonsoft.Json.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Mvc.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Optimization.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Providers.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Razor.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\WebGrease.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\Newtonsoft.Json.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Mvc.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Razor.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Code.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Domain.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Service.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Data.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Code.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Domain.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Service.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Data.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.xml
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSysDal.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSysDal.pdb
+E:\cjgWork\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Entity.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.dll.config
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Bll.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Common.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Entity.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Providers.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSysDal.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Bll.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Common.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSys.Entity.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\ResumeSysDal.pdb
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1723859741\FileRecv\ResumeSys\ResumeSys\ResumeSys\obj\Debug\ResumeSys.csproj.CopyComplete
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\Antlr3.Runtime.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\EntityFramework.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\Microsoft.Web.Infrastructure.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\Newtonsoft.Json.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Bll.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Common.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Entity.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Http.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Mvc.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Optimization.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Providers.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Razor.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\WebGrease.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSysDal.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Bll.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Common.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSys.Entity.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\EntityFramework.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\EntityFramework.SqlServer.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\Newtonsoft.Json.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Net.Http.Formatting.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Http.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Http.WebHost.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Mvc.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.Razor.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.Deployment.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\System.Web.WebPages.Razor.xml
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\ResumeSysDal.pdb
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\obj\Debug\ResumeSys.csprojResolveAssemblyReference.cache
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\obj\Debug\ResumeSys.dll
+E:\cjgWork\ResumeSys\ResumeSys31-wan\ResumeSys\ResumeSys\obj\Debug\ResumeSys.pdb
