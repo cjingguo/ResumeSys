@@ -1,0 +1,228 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>新增简历</title>
+    <meta charset="utf-8">
+    <script type="text/javascript">
+
+        picpath="";
+        $(function () {
+            $( "#uploadify").uploadify({
+                'swf':  window.location.href+'Content/uploadify/uploadify.swf' , //uploadify.swf文件的相对路径
+            //'cancelImg': '/uploadify/uploadify-cancel.png' , //取消图片的位置
+            'uploader': '/Resume/Upload',//后台处理的相对路径
+            'buttonText': '上传' ,//按钮显示文字
+            'height': 15,//显示高度，默认30
+            'width': 80,//显示宽度，默认120
+            'fileTypeDesc': 'Image Files',
+            'fileTypeExts': '*.gif; *.jpg; *.png',//允许上传的文件后缀
+            'formData': {},//发送给后台的参数
+            'queueID': 'fileQueue' ,//显示文件队列元素的id，默认false
+            'auto': false ,//设置选择文件后是否自动上传
+            'multi': true ,//设置允许多文件上传
+            'queueSizeLimit':999, //当允许多文件上传时，设置选择文件的个数，默认999
+
+            'onUploadSuccess': function (file, data, response) {//上传保存后，处理返回值
+                var rr = null
+                rr = eval("(" + data + ")");
+                //alert(rr.path);
+                picpath=rr.path;
+                $("#dishesPic").attr("src",picpath); 
+            }  
+        });
+        });
+
+        function print() {
+            //直接调用浏览器打印功能
+            bdhtml = window.document.body.innerHTML;
+            //定义打印区域起始字符，根据这个截取网页局部内容     
+            sprnstr = "<!--startprint-->"; //打印区域开始的标记
+            eprnstr = "<!--endprint-->";   //打印区域结束的标记  
+            prnhtml = bdhtml.substr(bdhtml.indexOf(sprnstr) + 17);
+            prnhtml = prnhtml.substring(0, prnhtml.indexOf(eprnstr));
+            //还原网页内容     
+            window.document.body.innerHTML = prnhtml;
+            //开始打印
+            window.print();
+        }
+
+    </script>
+</head>
+<body>
+
+@*  <div>
+       <input type="file" name="uploadify" id="uploadify" style="width:120px;height:40px; "/>
+       <p>
+       <a onclick="$('#uploadify').uploadify('upload')"> 上传</a>
+       <a onclick="$('#uploadify').uploadify('cancel')"> 取消上传</a>
+       </p>
+      <div id="fileQueue">
+      </div>
+</div>*@
+    <div style="padding: 15px; overflow: hidden">
+        <a href="javascript:void(0);" class="easyui-linkbutton" iconcls="icon-print" plain="true"
+            onclick="print();">打印</a>
+        <!--startprint-->
+        <form id="ResumeEditForm" method="post" action="">
+            <!--startprint-->
+            <table>
+                <tr>
+                    <td>
+                        <div style="float:right;">填表日期：<input type="text" name="FillingDate" id="FillingDate" /></div>
+                    </td>
+                </tr>
+            </table>
+            <table class="tableForm" width="850px" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed">
+                <tr>
+                    <td width="80px">
+                        <span>姓名</span>
+                        <input type="hidden" name="Id" id="Id" />
+                    </td>
+                    <td width="150px">
+                        <input id="txtRealName" name="txtRealName" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                    <td width="80px"><span>性别</span></td>
+                    <td width="150px">
+                        <input id="txtSex" name="txtSex" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                    <td width="80px"><span>民族</span></td>
+                    <td width="150px">
+                        <input id="txtNation" name="txtNation" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                    <td rowspan="6"><img src="" alt="照片" /></td>
+                </tr>
+                <tr>
+                   <td><span>身份证</span></td>
+                    <td colspan="3">
+                        <input id="txtIdCard" name="txtIdCard" class="easyui-validatebox textbox" style="width:300px;height:22px"   />
+                    </td>
+                    <td><span>政治面貌</span></td>
+                    <td>
+                        <input id="txtPoliticalAffiliation" name="txtPoliticalAffiliation" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                </tr>
+                <tr>
+                   <td><span>学历</span></td>
+                   <td>
+                       <input id="txtEducation" name="txtEducation" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                   </td>
+                    <td><span>专业</span></td>
+                    <td colspan="3">
+                        <input id="txtMajor" name="txtMajor" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                </tr>
+                <tr>
+                    <td><span>婚否</span></td>
+                    <td >
+                         <input id="txtIsMarry" name="txtIsMarry" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                    <td><span>生育情况</span></td>
+                    <td colspan="3">
+                        <input id="txtIsBred" name="txtIsBred" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                </tr>
+                <tr>
+                    <td><span>户口所在地</span></td>
+                    <td colspan="2">
+                        <input id="txtResidence" name="txtResidence" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+                    <td><span>户口性质</span></td>
+                    <td colspan="2">
+                        <input id="txtResidenceType" name="txtResidenceType" class="easyui-validatebox textbox" style="width:150px;height:22px"   />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td><span>现住地址</span></td>
+                    <td colspan="5">
+                        <input id="txtAddress" name="txtAddress" class="easyui-validatebox textbox" style="width:300px;height:22px"   />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="7" style="text-align:center"><span>教育、培训经历</span></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="width:20%"><span>教育机构(学校)名称</span></td>
+                    <td style="width:20%"><span>专业</span></td>
+                    <td style="width:20%"><span>起止时间</span></td>
+                     <td style="width:20%"><span>形式<br />(脱产/在职)</span></td>
+                     <td colspan="2"  style="width:20%"><span>学历/学位(学历教育)<br />证书(非学历教育)</span>
+                     </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="hidden" name="ExpId1" id="ExpId1" />
+                        <input id="txtEducationalServices1" name="txtEducationalServices1" class="easyui-validatebox textbox" style="width:200px;height:22px" />
+                    </td>
+                    <td>
+                        <input id="txtMajor1" name="txtMajor1" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                    </td>
+                    <td>
+                        <input id="txtStartTime1" name="txtStartTime1" class="easyui-validatebox textbox" style="width:120px;height:22px"   />
+                    </td>
+                    <td>
+                        <input id="txtMode1" name="txtMode1" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                    </td>
+                    <td colspan="2"> 
+                        <input id="txtDiploma1" name="txtDiploma1" class="easyui-validatebox textbox" style="width:200px;height:22px"   />
+                    </td>
+                </tr>
+                 <tr>
+                    <td colspan="2">
+                        <input type="hidden" name="ExpId2" id="ExpId2" />
+                        <input id="txtEducationalServices2" name="txtEducationalServices2" class="easyui-validatebox textbox" style="width:200px;height:22px" />
+                    </td>
+                    <td>
+                        <input id="txtMajor2" name="txtMajor2" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                    </td>
+                    <td>
+                        <input id="txtStartTime2" name="txtStartTime2" class="easyui-validatebox textbox" style="width:120px;height:22px"   />
+                    </td>
+                    <td>
+                        <input id="txtMode2" name="txtMode2" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                    </td>
+                    <td colspan="2">
+                        <input id="txtDiploma2" name="txtDiploma2" class="easyui-validatebox textbox" style="width:200px;height:22px"   />
+                    </td>
+                </tr>
+               <tr>
+                <td colspan="2">
+                    <input type="hidden" name="ExpId3" id="ExpId3" />
+                    <input id="txtEducationalServices3" name="txtEducationalServices3" class="easyui-validatebox textbox" style="width:200px;height:22px" />
+                </td>
+                <td>
+                    <input id="txtMajor3" name="txtMajor3" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                </td>
+                <td>
+                    <input id="txtStartTime3" name="txtStartTime3" class="easyui-validatebox textbox" style="width:120px;height:22px"   />
+                </td>
+                <td>
+                    <input id="txtMode3" name="txtMode3" class="easyui-validatebox textbox" style="width:80px;height:22px"   />
+                </td>
+                <td colspan="2">
+                    <input id="txtDiploma3" name="txtDiploma3" class="easyui-validatebox textbox" style="width:200px;height:22px"   />
+                </td>
+            </tr>
+                <tr>
+                    <td colspan="7" style="height:50px">
+                        <span>声明：本人保证表内所填内容均详实可靠，并同意公司就表内资料进行核实。</span>
+                        <br />
+                        <br />
+                        <br />
+
+                        <span style="float:right;">签名：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            年&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;日</span>
+                    </td>
+                </tr>
+            </table>
+            <!--endprint-->
+        </form>
+    </div>
+</body>
+</html>
